@@ -15,4 +15,6 @@ Ao modelo não-relacional (NoSQL) se aplica o conceito de schema:
 
 uma chave de valor é que é utilizada para recuperar valores, 
 
-conjunto de colunas ou documentos
+conjunto de colunas ou documentos.
+
+O Nosql vem se popularizando devido a sua flexibilidade, não fica preso ao schema ou estrutura.
